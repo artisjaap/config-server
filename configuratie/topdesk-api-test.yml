@@ -2,7 +2,7 @@
 spring:
 
   rabbitmq:
-    addresses: svr-dcg-rabbit:5672,svr-dco-rabbit:5672
-    username: rabbit-test2
-    password: rabbit-test2
+    addresses: test
+    username: rabbit-test
+    password: rabbit-test
     virtual-host: /configuratie
