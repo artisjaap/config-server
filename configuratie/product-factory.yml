@@ -2,7 +2,7 @@ server:
   port: 0
 
 production:
-  interval: 2000
+  interval: 3000
   storage-capacity: 10
 
 ---
